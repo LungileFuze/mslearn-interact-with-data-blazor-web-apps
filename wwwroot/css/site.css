@@ -52,7 +52,7 @@ form {
 }
 
 .main {
-    min-height: 100vh;
+    min-height: 85vh;
     flex-grow: 1;
     overflow-y: auto;
     background: linear-gradient(rgba(0,0,0,0) 40%, rgba(0,0,0,0.4) 80%);
